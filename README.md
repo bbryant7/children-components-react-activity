@@ -6,6 +6,6 @@ Build Steps:
 - `npm install`
 - cd <project-name>
 - cd src
-- touch newsAPI.js
+- touch apiKey.js
 - `const key = '<newsapi-key>';
 export default key;`
